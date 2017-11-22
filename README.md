@@ -7,4 +7,6 @@ The following Python notebooks outline how to access data that is stored in
  * [MySQL](https://github.com/ibm-watson-data-lab/how-do-i-python-notebooks/blob/master/access%20mysql.ipynb) 
  * [PostgreSQL](https://github.com/ibm-watson-data-lab/how-do-i-python-notebooks/blob/master/access%20postgresql.ipynb)
  
- ![how-to-access-data-sources](https://raw.githubusercontent.com/ibm-watson-data-lab/how-do-i-python-notebooks/master/img/how-to-access-data-sources.png)
+ ![Watch a demo](https://github.com/ibm-watson-data-lab/how-do-i-python-notebooks/raw/master/img/access_demo.gif)
+ 
+
